@@ -93,3 +93,12 @@ p.antwoord {
     background-color: aliceblue;
     border-radius: 20px 20px 20px 20px;
 }
+h2.titel, p#uitleg {
+    text-align: center;
+}
+p.antwoord {
+    font-style: italic;
+}
+p.vraag {
+    font-family: Arial, Helvetica, sans-serif;
+}
